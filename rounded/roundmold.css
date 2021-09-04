@@ -29,12 +29,12 @@ themevarsp
 @import "https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css";
 
 :root{
-    --dark-primary: #ffffff;
-    --dark-secondary: #00ff4c;
+    --dark-primary: #000000;
+    --dark-secondary: #050505;
     --dark-secondary-alt: #080808;
-    --dark-bright: #1336ff;
+    --dark-bright: #0b0b0b;
     --roundmoled-background: #142339;
-    --popout-activeborders: #ff0000;
+    --popout-activeborders: #1f1f1f;
 }
 
 
@@ -1780,7 +1780,7 @@ button.gm-spotify-controls-button{
 .role-2irmRk {
   position: relative;
   overflow: hidden;
-  border-radius:8px;
+  border-radius:24px;
   border: none;
   padding: 5px;
   color:#fff;
